@@ -2,6 +2,10 @@
     margin: 0;
     padding: 0;
 }
+head{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
 .main{
     width: 100%;
     height: 100vh;

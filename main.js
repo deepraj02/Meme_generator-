@@ -17,6 +17,6 @@ function getMeme() {
     });
 }
 function loader() {
-  var url1 = "1.gif";
-  img.setAttribute("src", url1);
+    var url1 = "1.gif";
+    img.setAttribute("src", url1);
 }
